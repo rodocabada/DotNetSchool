@@ -1,0 +1,11 @@
+C:\Apps\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.deps.json
+C:\Apps\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.runtimeconfig.json
+C:\Apps\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.runtimeconfig.dev.json
+C:\Apps\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.dll
+C:\Apps\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.pdb
+C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.csprojAssemblyReference.cache
+C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.csproj.CoreCompileInputs.cache
+C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfoInputs.cache
+C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfo.cs
+C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.dll
+C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.pdb

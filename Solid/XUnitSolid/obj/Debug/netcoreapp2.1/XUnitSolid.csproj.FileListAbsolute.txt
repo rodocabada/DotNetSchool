@@ -1,0 +1,17 @@
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\XUnitSolid.deps.json
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\XUnitSolid.runtimeconfig.json
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\XUnitSolid.runtimeconfig.dev.json
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\XUnitSolid.dll
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\XUnitSolid.pdb
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\Solid.dll
+C:\Apps\DotNetSchool\Solid\XUnitSolid\bin\Debug\netcoreapp2.1\Solid.pdb
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.csprojAssemblyReference.cache
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.csproj.CoreCompileInputs.cache
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.AssemblyInfoInputs.cache
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.AssemblyInfo.cs
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.csproj.CopyComplete
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.dll
+C:\Apps\DotNetSchool\Solid\XUnitSolid\obj\Debug\netcoreapp2.1\XUnitSolid.pdb
