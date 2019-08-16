@@ -15,6 +15,7 @@ namespace Solid
 
             WriteLine(shapeCalculator.TotalAreas);
             WriteLine(shapeCalculator.TotalPerimeters);
+            ReadKey();
 
         }
 
@@ -25,6 +26,14 @@ namespace Solid
                 {
                     Height = 4,
                     Width = 5
+                },
+                new Triangle
+                {
+                    SideLength = 10
+                },
+                new Square
+                {
+                    Height = 5
                 }
             };
     }

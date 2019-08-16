@@ -8,14 +8,8 @@ namespace Solid
     {
         public double Height { get; set; }
 
-        public double Area()
-        {
-            throw new NotImplementedException();
-        }
+        public double Area() => Height * 2;
 
-        public double Perimeter()
-        {
-            throw new NotImplementedException();
-        }
+        public double Perimeter() => Height * 4;
     }
 }

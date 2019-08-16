@@ -1677,9 +1677,6 @@
       "Solid/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "Microsoft.NETCore.App": "2.1.0"
-        },
         "compile": {
           "bin/placeholder/Solid.dll": {}
         },
@@ -4123,11 +4120,12 @@
       ]
     },
     "System.Reflection.Emit/4.0.1": {
-      "sha512": "P2wqAj72fFjpP6wb9nSfDqNBMab+2ovzSDzUZK7MVIm54tBJEPr9jWfSjjoTpPwj1LeKcmX3vr0ttyjSSFM47g==",
+      "sha512": "/3dmiGuUUUjqZaSeTdxkgzY0De8sLpS4J3tYRETskSbZaRjwvL62IBalMGI6iczZ6udJ1iBlsBBYOHtdCfx90Q==",
       "type": "package",
       "path": "system.reflection.emit/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5868,19 +5866,19 @@
   },
   "packageFolders": {
     "C:\\Users\\1428796\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Apps\\DotNetSchool\\Solid\\XUnitSolid\\XUnitSolid.csproj",
+      "projectUniqueName": "D:\\apps\\ProyectosPracticas\\DotNetSchool\\Solid\\XUnitSolid\\XUnitSolid.csproj",
       "projectName": "XUnitSolid",
-      "projectPath": "C:\\Apps\\DotNetSchool\\Solid\\XUnitSolid\\XUnitSolid.csproj",
+      "projectPath": "D:\\apps\\ProyectosPracticas\\DotNetSchool\\Solid\\XUnitSolid\\XUnitSolid.csproj",
       "packagesPath": "C:\\Users\\1428796\\.nuget\\packages\\",
-      "outputPath": "C:\\Apps\\DotNetSchool\\Solid\\XUnitSolid\\obj\\",
+      "outputPath": "D:\\apps\\ProyectosPracticas\\DotNetSchool\\Solid\\XUnitSolid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\1428796\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5896,8 +5894,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Apps\\DotNetSchool\\Solid\\Solid\\Solid.csproj": {
-              "projectPath": "C:\\Apps\\DotNetSchool\\Solid\\Solid\\Solid.csproj"
+            "D:\\apps\\ProyectosPracticas\\DotNetSchool\\Solid\\Solid\\Solid.csproj": {
+              "projectPath": "D:\\apps\\ProyectosPracticas\\DotNetSchool\\Solid\\Solid\\Solid.csproj"
             }
           }
         }
@@ -5916,6 +5914,7 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

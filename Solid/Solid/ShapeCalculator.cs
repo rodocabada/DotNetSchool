@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Linq;
 
 namespace Solid
 {
@@ -9,17 +6,18 @@ namespace Solid
     {
         public double TotalAreas { get; private set; }
         public double TotalPerimeters { get; private set; }
+        private IGeometricShape[] Shapes { get; set; }
 
         public ShapeCalculator(IGeometricShape[] shapes)
         {
-
+            this.Shapes = shapes;
         }
 
-        public void CalculateAreas(IEnumerable<IGeometricShape> shapes) =>
-            shapes.Sum(s => TotalAreas += s.Area());
+        public void CalculateAreas() =>
+            Shapes.Sum(s => TotalAreas += s.Area());
 
-        public void CalculatePerimeters(IEnumerable<IGeometricShape> shapes) =>
-            shapes.Sum(s => TotalPerimeters += s.Perimeter());
+        public void CalculatePerimeters() =>
+            Shapes.Sum(s => TotalPerimeters += s.Perimeter());
 
     }
 }

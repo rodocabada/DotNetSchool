@@ -9,3 +9,14 @@ C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfoInput
 C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfo.cs
 C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.dll
 C:\Apps\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.pdb
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.deps.json
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.runtimeconfig.json
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.runtimeconfig.dev.json
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.dll
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\bin\Debug\netcoreapp2.1\Solid.pdb
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.csprojAssemblyReference.cache
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.csproj.CoreCompileInputs.cache
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfoInputs.cache
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.AssemblyInfo.cs
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.dll
+D:\apps\ProyectosPracticas\DotNetSchool\Solid\Solid\obj\Debug\netcoreapp2.1\Solid.pdb
